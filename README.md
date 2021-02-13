@@ -1,2 +1,2 @@
 # opencv-study
-上传自己opencv学习资料和总结
+保存自己opencv的学习和下载资料
